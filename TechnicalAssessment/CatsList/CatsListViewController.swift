@@ -25,7 +25,7 @@ final class CatsListViewController: UIViewController, ViewControllerType {
 
     private lazy var collectionView: UICollectionView = {
         let flowLayout = UICollectionViewFlowLayout()
-        flowLayout.itemSize = .init(width: (view.frame.size.width - 48) / 2, height: 140)
+        flowLayout.itemSize = .init(width: (view.frame.size.width - 72) / 3, height: 140)
 
         let view = UICollectionView(frame: .zero, collectionViewLayout: flowLayout)
 
