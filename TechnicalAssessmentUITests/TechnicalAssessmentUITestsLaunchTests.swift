@@ -1,10 +1,3 @@
-//
-//  TechnicalAssessmentUITestsLaunchTests.swift
-//  TechnicalAssessmentUITests
-//
-//  Created by Alessio Giovannoli on 21.03.22.
-//
-
 import XCTest
 
 class TechnicalAssessmentUITestsLaunchTests: XCTestCase {
